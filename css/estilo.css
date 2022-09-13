@@ -1,0 +1,23 @@
+.menuu{
+    background-color: rgb(19, 10, 53);
+    padding: 10px;
+    padding-left: 10px;
+}
+.titulo{
+    font-size: 100px;
+}
+.texto{
+    padding-left: 10px;
+    padding-top: 5px;
+}
+.imagem{
+    padding: 150px ;
+
+}
+.centro{
+    font-size: 30px;
+}
+
+.paragrafo{
+    text-align: justify;
+}
